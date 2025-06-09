@@ -3,7 +3,7 @@ My Master's Thesis project was titled "An Investigation into the Potential of Em
 
 ## Overview
 
-This project investigates the integration of smart tooling into grinding processes, leveraging embedded sensors to monitor grinding forces in real time. The project served to evaluate if such sensor solutions would have the physical capabilities to measure such dyanmics.
+This project investigated the integration of smart tooling into grinding processes, namely embedded sensors to monitor grinding forces in real time. The project served to evaluate if such sensor solutions would have the physical capabilities to measure such dyanmics.
 
 ## Motivation
 
@@ -25,7 +25,7 @@ Grinding is a widely used material removal process, but it often suffers from in
 ## Conclusion
 
 - Embedded strain sensors are well-suited for detecting out-of-plane grinding forces.
-- In-plane forces are less detectable using current wheel-embedded sensor configurations.
+- In-plane forces are less detectable using current wheel-embedded sensor configurations, however optimised grinding wheel designs may help with this
 - Future work should explore embedding sensors in the **grinding wheel shaft** to enable detection of tangential and normal forces.
 
 ## Academic Contribution
