@@ -30,7 +30,7 @@ Grinding is a widely used material removal process, but it often suffers from in
 
 ## Academic Contribution
 
-Some of the findings and foundational work in this project contributed to the academic paper:
+The expperimental work in this project served as the basis for the academic paper:
 
 **_“Strain in ANSYS Simulation and Real Testing”_**,  
 *Published in Advanced Manufacturing Processes VI*
