@@ -25,12 +25,12 @@ Grinding is a widely used material removal process, but it often suffers from in
 ## Conclusion
 
 - Embedded strain sensors are well-suited for detecting out-of-plane grinding forces.
-- In-plane forces are less detectable using current wheel-embedded sensor configurations, however optimised grinding wheel designs may help with this
+- In-plane forces are less detectable using current wheel-embedded sensor configurations, however optimised grinding wheel designs may help here.
 - Future work should explore embedding sensors in the **grinding wheel shaft** to enable detection of tangential and normal forces.
 
 ## Academic Contribution
 
-The expperimental work in this project served as the basis for the academic paper:
+The experimental work in this project served as the basis for the academic paper:
 
 **_“Strain in ANSYS Simulation and Real Testing”_**,  
 *Published in Advanced Manufacturing Processes VI*
